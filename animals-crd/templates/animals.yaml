@@ -1,23 +1,23 @@
 apiVersion: "crd.jankovsky.me/v1"
 kind: Animal
 metadata:
-  name: Nala
+  name: nala
 spec:
-  species: Dog
+  species: dog
   age: 6
 ---
 apiVersion: "crd.jankovsky.me/v1"
 kind: Animal
 metadata:
-  name: Frankie
+  name: frankie
 spec:
-  species: Cat
+  species: cat
   age: 10
 ---
 apiVersion: "crd.jankovsky.me/v1"
 kind: Animal
 metadata:
-  name: Jake
+  name: jake
 spec:
-  species: Dog
+  species: dog
   age: 1
