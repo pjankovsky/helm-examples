@@ -19,6 +19,8 @@ spec:
                   type: string
                 age:
                   type: integer
+                color:
+                  type: string
   scope: Namespaced
   names:
     plural: animals
