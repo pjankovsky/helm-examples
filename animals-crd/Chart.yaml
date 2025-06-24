@@ -1,0 +1,6 @@
+apiVersion: v2
+name: animals-crd
+description: Example helm chart for managing custom resource definitions (CRDs) for animals
+type: application
+version: 0.0.1
+appVersion: "0.0.1"

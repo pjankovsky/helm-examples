@@ -1,0 +1,23 @@
+apiVersion: "crd.jankovsky.me/v1"
+kind: Animal
+metadata:
+  name: Nala
+spec:
+  species: Dog
+  age: 6
+---
+apiVersion: "crd.jankovsky.me/v1"
+kind: Animal
+metadata:
+  name: Frankie
+spec:
+  species: Cat
+  age: 10
+---
+apiVersion: "crd.jankovsky.me/v1"
+kind: Animal
+metadata:
+  name: Jake
+spec:
+  species: Dog
+  age: 1
